@@ -1,5 +1,5 @@
 import socket
-from general import ServerInfo, SocketObject
+from SocketUtils.general import ServerInfo, SocketObject
 
 class TCP_Client(SocketObject):
     def __init__(self, server_info: ServerInfo, max_bytes: int = 1024):

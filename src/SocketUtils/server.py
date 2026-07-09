@@ -9,6 +9,8 @@ class TCP_Server(SocketObject):
         self.listen_sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
         self.client_soc = None
 
+    def get_info(self) -> ServerInfo:
+        return self.server_info
     def start_listener(self):
         """
         Start listening socket

@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d71e12c9-761c-49be-9324-9a18fce2b96c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SocketUtils/client.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/SocketUtils/client.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +58,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-245168a56dbd-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.25134.203" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-PY-261.26222.68" />
+        <option value="bundled-python-sdk-50341a9f1f9c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.26222.68" />
       </set>
     </attachedChunks>
   </component>
@@ -72,6 +74,9 @@
       <workItem from="1783421980111" duration="1521000" />
       <workItem from="1783583495746" duration="115000" />
       <workItem from="1783599642266" duration="63000" />
+      <workItem from="1783600320243" duration="45000" />
+      <workItem from="1783766770482" duration="231000" />
+      <workItem from="1783767683665" duration="326000" />
     </task>
     <servers />
   </component>
